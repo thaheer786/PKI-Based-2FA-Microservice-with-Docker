@@ -1,0 +1,5 @@
+{
+  "student_id": "23A91A1258",
+  "github_repo_url": "https://github.com/thaheer786/PKI-Based-2FA-Microservice-with-Docker",
+  "public_key": "-----BEGIN PUBLIC KEY-----\nMIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAvY0kv1S4bKMvcpcmsrks\na/vYRUdeyBQF9AfpTjhFWuo7t4LTq9EEqCSk4dML8dBMp9r3ZJ67jknYOOEVAGVg\nVY06j6qeaTBwL67GXU+VuJcI/Ix/mFMwpBfNEuw2P6qx+W+HRkIRKzaXTUuA84zT\n9ZgFzv39qM2Gonv/UOUn6baU20OzgualxfBF0WGc5jnxjPtkT4xQgdKPQMVX10tr\nNINatSWh9wvaScVNgleXcBlc7vQ9KEhYvLZhr+zFVXGKbN/p+nWi7dHoQx7UiTCc\nKNgCe/hqvY5MLb1RuGEZJE0lLyJqdge6hSkmK8cd51rMsG7WXagIX5zHPhFcmoED\nQM3V4WZb0Gi2Q7eAkQCV265R3b20dFS49wkEEt1dLQDeZG7A9jax82eEFXRYjxc6\ny5+088Cwp/bFPDiSTKjs+ZvvgMqL1UaeAsQJ3GPFRvMyCyaaIj4yaxlJ29xfFdpo\nlKOx0IgEpn9lBn9his/rZGycwPhKvtXaKn1ehf80do81J/mSZg5NAXEG2xXsexEZ\nIF0kJBgajd+0IDPhby4Z00jXW+3dYXbdShMxPK/XbotBAXSXbttriRgkpRjQmpsp\nx2zj+7yidz5KueOT3/89arcT8YpeRz+j+ERXI+rbjEXLB6oUbJ0SRBpvNmfKxphg\nWJSBXDkrN81VMxBMvTqJUMsCAwEAAQ==\n-----END PUBLIC KEY-----\n"
+}
